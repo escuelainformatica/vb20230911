@@ -1,0 +1,11 @@
+C:\cursovisualbasic2023\consola1\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\cursovisualbasic2023\consola1\ejercicio2\bin\Debug\ejercicio2.exe
+C:\cursovisualbasic2023\consola1\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\cursovisualbasic2023\consola1\ejercicio2\bin\Debug\ejercicio2.xml
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.vbproj.AssemblyReference.cache
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.Resources.resources
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.vbproj.GenerateResource.cache
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.vbproj.CoreCompileInputs.cache
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.exe
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.xml
+C:\cursovisualbasic2023\consola1\ejercicio2\obj\Debug\ejercicio2.pdb
